@@ -1,0 +1,10 @@
+{
+  "allowedIps": ["180.254.159.144"],
+  "users": [
+     {
+      "username": "cilzz",
+      "password": "123",
+      "expires": "2025-11-10T12:00:00.000Z"  
+    }
+  ]
+}
